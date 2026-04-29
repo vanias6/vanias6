@@ -108,11 +108,5 @@ Senior AI Engineer with **5 years** of software engineering experience, includin
 <p align="center">
   <a href="mailto:atvani01@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Phone-217--900--9983-25D366?style=for-the-badge&logo=phone&logoColor=white" />
-</p>
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Available%20For-Full%20Time%20Roles-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Preferred%20Role-Senior%20AI%20Engineer-blue?style=for-the-badge" />
 </p>

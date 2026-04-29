@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:atvani01@gmail.com"><img src="https://img.shields.io/badge/Email-atvani01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Open%20to%20Relocation-0078D4?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20To-New%20Opportunities-brightgreen?style=for-the-badge" />
 </p>
 

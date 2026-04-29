@@ -74,7 +74,7 @@ Senior AI Engineer with **5 years** of software engineering experience, includin
 - Designed scalable feature pipelines supporting **500K daily interactions**, reducing execution time from 4 hours to 45 minutes
 - Integrated ML models via REST APIs on AWS achieving **99.4% uptime** over 12 months
 
-### 🏢 Machine Learning Engineer — Paytm *(Oct 2020 – Dec 2022)*
+### 🏢 Machine Learning Engineer — Paytm *(Sep 2020 – Dec 2022)*
 - Built classification & anomaly detection models for transaction risk scoring — **91% precision, 88% recall** on 2M labeled records
 - Engineered 40 features from raw transactional data, reducing model error rate by **14%**
 - Processed **300K daily records** with sub-100ms inference latency via REST APIs and Docker

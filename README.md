@@ -93,6 +93,17 @@ Senior AI Engineer with **5 years** of software engineering experience, includin
 | NLP entity extraction precision gain | 22% across 15 enterprise deployments |
 | API uptime on AWS | 99.4% over 12 months |
 
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [agentic-rag-llm-system](https://github.com/vanias6/agentic-rag-llm-system) | **Identity Project** — Agentic LLM pipeline with RAG, safety evaluation, and production deployment | LangChain, FAISS, FastAPI, RAGAS |
+| [ml-signal-lifecycle-pipeline](https://github.com/vanias6/ml-signal-lifecycle-pipeline) | End-to-end ML pipeline: ingestion → features → training → versioning → monitoring → retraining | MLflow, Airflow, Optuna, Evidently |
+| [real-time-data-pipeline-kafka-spark](https://github.com/vanias6/real-time-data-pipeline-kafka-spark) | 50K events/sec streaming pipeline with Kafka + PySpark, multi-sink output (S3, Postgres) | Kafka, PySpark 3.5, AWS S3 |
+| [realtime-fraud-detection](https://github.com/vanias6/realtime-fraud-detection) | XGBoost fraud classifier + FastAPI + Evidently AI monitoring + CI/CD | XGBoost, FastAPI, Docker, GitHub Actions |
+| [rag-document-qa](https://github.com/vanias6/rag-document-qa) | RAG-powered document Q&A: PDF ingestion, FAISS vector search, LLM Q&A | LangChain, FAISS, OpenAI, FastAPI |
+
 ---
 
 ## 🎓 Education
